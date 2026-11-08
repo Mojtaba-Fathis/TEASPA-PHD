@@ -1,0 +1,109 @@
+================================================================================
+TEASPA-PHD (TEASPA PLASTIC HINGE DESIGNER)
+COPYRIGHT AND OWNERSHIP NOTICE
+Version 1.2.0 Beta — Release Date: October 2026
+================================================================================
+
+1. SOFTWARE COPYRIGHT OWNERSHIP
+-------------------------------
+TEASPA Plastic Hinge Designer (TEASPA-PHD)
+Copyright (c) 2026 by Mojtaba Fathisepahvand, Min-Lang Lin, and contributors.
+All rights reserved.
+
+Development & Research Authors:
+  - Mojtaba Fathisepahvand [Primary Software Architect & Developer]
+  - Min-Lang Lin [Project Lead, Associate Professor, NTUT]
+  - Chao-Hsun Huang [Research Co-Author]
+  - Tsung-Chih Chiou [Research Specialist, NCREE]
+  - Lap-Loi Chung [Research Specialist, NCREE / Adjunct Professor, NTUT]
+  - Te-Kuang Chou [Research Co-Author]
+
+Institutional Research Affiliations:
+  - Department of Civil Engineering, National Taipei University of Technology
+    (NTUT), Taipei, Taiwan.
+  - National Center for Research on Earthquake Engineering (NCREE),
+    National Applied Research Laboratories (NARLabs), Taipei, Taiwan.
+
+
+2. NATURE OF INTELLECTUAL PROPERTY
+----------------------------------
+The authors assert exclusive copyright ownership over the original software code,
+including:
+  - Application architecture, graphical user interface (Tkinter), and workflows;
+  - Automated structural text parsers and serializers for ETABS (.e2k),
+    SAP2000 (.s2k / .txt), and MIDAS Gen (.mgt);
+  - Dynamic backbone generation and coordinate transformation algorithms;
+  - Interactive visualization, undo/redo state management, and batch patching logic.
+
+Scientific and Mathematical Formulations:
+The application implements mathematical and structural engineering principles
+documented in public academic and technical literature. No claim of copyright or
+patent ownership is made over mathematical formulas, physical laws, or standard
+code guidelines. Full academic attribution is provided for all underlying models.
+
+
+3. ACADEMIC AND TECHNICAL CITATIONS
+-----------------------------------
+Users of this software for academic publications, theses, or research reports are
+requested to cite the following primary references:
+
+[1] Primary TEASPA Methodology:
+    Lin, M.-L., Chiou, T.-C., Chung, L.-L., et al. (2025).
+    Technical Handbook for Taiwan Earthquake Assessment and Strengthening of
+    Structures by Pushover Analysis (TEASPA V5.0).
+    National Center for Research on Earthquake Engineering (NCREE),
+    Report No. NCREE-25-002, Taipei, Taiwan.
+
+[2] Steel Hinge Experimental Calibration & Verification:
+    Fathisepahvand, M., Huang, C.-H., Lin, M.-L., et al. (2026).
+    Experimentally calibrated nonlinear hinge models for steel
+    moment-resisting and concentrically braced frame systems.
+    Advances in Structural Engineering, 0(0).
+    doi:10.1177/13694332261463513
+
+[3] Square Concrete-Filled Steel Tubular (CFST) Column Methodology:
+    Lin, M.-L., Huang, C.-H., Fathisepahvand, M., Weng, Y.-T., Chiou, T.-C.,
+    Chung, L.-L., Chou, T.-K., and Tseng, Y.-C. (2026).
+    Nonlinear Hinge Models for Seismic Performance Evaluation of Concrete-Filled
+    Steel Tubular Structures.
+    Journal of the Chinese Institute of Engineers (JCIE).
+    doi:10.1080/02533839.2026.2650112
+
+[4] BRB Methodology:
+    ASCE/SEI 41-23 (2023). Seismic Evaluation and Retrofit of Existing Buildings.
+    American Society of Civil Engineers, Reston, VA.
+    ANSI/AISC 342-22 (2022). Seismic Provisions for Evaluation and Retrofit of
+    Existing Structural Steel Buildings. American Institute of Steel Construction.
+
+
+4. HISTORICAL RELEASES AND DUAL LICENSING
+-----------------------------------------
+Early prototype versions of this tool (e.g., v1.0.3) were distributed under the
+Apache License, Version 2.0.
+
+In accordance with copyright law, the original authors retain copyright in their
+original contributions and intellectual property. The authors have elected to
+distribute version 1.2.0 and future versions as a proprietary, compiled binary
+under the TEASPA-PHD End User License Agreement (EULA.txt). The source code of
+version 1.2.0 remains private and proprietary.
+
+
+5. TRADEMARK AND INSTITUTIONAL DISCLAIMER
+-----------------------------------------
+"NTUT", "National Taipei University of Technology", "NCREE", and "National Center
+for Research on Earthquake Engineering" are names and emblems of their respective
+institutions. Their appearance in the software and documentation acknowledges
+the research environment and institutional lineage of the authors. This does not
+constitute an official endorsement, warranty, or assumption of legal liability
+by NTUT or NCREE.
+
+"CSI", "ETABS", and "SAP2000" are registered trademarks of Computers and
+Structures, Inc. "MIDAS", "MIDAS Gen", and "MIDAS Information Technology" are
+trademarks of MIDAS Information Technology Co., Ltd. These trademarks are used
+solely for nominative descriptive purposes to indicate file format compatibility.
+This software is an independent development and is not affiliated with, sponsored
+by, or endorsed by CSI or MIDAS IT.
+
+================================================================================
+END OF COPYRIGHT.txt
+================================================================================

@@ -1,0 +1,15 @@
+# Distribution repository only
+*.py
+*.pyc
+*.pyo
+*.pyd
+*.spec
+*.bat
+*.exe
+*.zip
+__pycache__/
+build/
+dist/
+tests/
+.env
+.venv/

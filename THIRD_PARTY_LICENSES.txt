@@ -1,0 +1,196 @@
+================================================================================
+TEASPA-PHD (TEASPA PLASTIC HINGE DESIGNER)
+THIRD-PARTY SOFTWARE LICENSES AND NOTICES
+================================================================================
+
+The TEASPA-PHD executable distribution incorporates or depends upon runtime
+components from third-party open-source projects. This document provides the
+required copyright notices, license conditions, and disclaimers for these
+components in accordance with their respective licensing terms.
+
+All third-party libraries used in the binary distribution are licensed under
+permissive licenses (BSD, PSF, HPND) or contain an explicit exception allowing
+proprietary binary distribution (PyInstaller Bootloader Exception). None of the
+bundled libraries impose copyleft obligations requiring the release of the
+TEASPA-PHD source code.
+
+
+--------------------------------------------------------------------------------
+1. Python Runtime
+License: Python Software Foundation License Version 2 (PSFL)
+Website: https://www.python.org/
+--------------------------------------------------------------------------------
+PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
+--------------------------------------------
+1. This LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and
+the Individual or Organization ("Licensee") accessing and otherwise using this
+software ("Python") in source or binary form and its associated documentation.
+
+2. Subject to the terms and conditions of this License Agreement, PSF hereby
+grants Licensee a nonexclusive, royalty-free, world-wide license to reproduce,
+analyze, test, perform and/or display publicly, prepare derivative works, distribute,
+and otherwise use Python alone or in any derivative version, provided, however, that
+PSF's License Agreement and PSF's notice of copyright, i.e., "Copyright (c) 2001-2026
+Python Software Foundation; All Rights Reserved" are included in Python alone or
+in any derivative version prepared by Licensee.
+
+3. In the event Licensee prepares a derivative work that is based on or incorporates
+Python or any part thereof, and wants to make the derivative work available to
+others as provided herein, then Licensee hereby agrees to include in any such work
+a brief summary of the changes made to Python.
+
+4. PSF is making Python available to Licensee on an "AS IS" basis. PSF MAKES NO
+REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE, BUT NOT
+LIMITATION, PSF MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY OF
+MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF PYTHON
+WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
+
+5. PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON FOR ANY
+INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF MODIFYING,
+DISTRIBUTING, OR OTHERWISE USING PYTHON, OR ANY DERIVATIVE THEREOF, EVEN IF
+ADVISED OF THE POSSIBILITY THEREOF.
+
+
+--------------------------------------------------------------------------------
+2. NumPy
+License: BSD 3-Clause License
+Website: https://numpy.org/
+--------------------------------------------------------------------------------
+Copyright (c) 2005-2026, NumPy Developers.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  1. Redistributions of source code must retain the above copyright notice, this
+     list of conditions and the following disclaimer.
+  2. Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+  3. Neither the name of the NumPy Developers nor the names of any contributors
+     may be used to endorse or promote products derived from this software without
+     specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+--------------------------------------------------------------------------------
+3. Matplotlib
+License: Matplotlib PSF-based License (BSD compatible)
+Website: https://matplotlib.org/
+--------------------------------------------------------------------------------
+Copyright (c) 2002-2026 John D. Hunter, Michael Droettboom, and the Matplotlib
+development team; All Rights Reserved.
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted, provided that
+the above copyright notice appear in all copies and that both that copyright
+notice and this permission notice appear in supporting documentation, and that
+the name of the copyright holder not be used in advertising or publicity
+pertaining to distribution of the software without specific, written prior
+permission.
+
+THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR
+BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
+CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
+WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+4. Pillow (PIL Fork)
+License: HPND License / Historical PIL License
+Website: https://python-pillow.org/
+--------------------------------------------------------------------------------
+The Python Imaging Library (PIL) is:
+Copyright (c) 1997-2011 by Secret Labs AB
+Copyright (c) 1995-2011 by Fredrik Lundh
+
+Pillow is the friendly PIL fork. It is:
+Copyright (c) 2010-2026 by Jeffrey A. Clark (Alex) and contributors.
+
+Like PIL, Pillow is licensed under the open source HPND License:
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted, provided that
+the above copyright notice appear in all copies and that both that copyright
+notice and this permission notice appear in supporting documentation, and that
+the name of Secret Labs AB or the author not be used in advertising or publicity
+pertaining to distribution of the software without specific, written prior
+permission.
+
+SECRET LABS AB AND THE AUTHOR DISCLAIM ALL WARRANTIES WITH REGARD TO THIS
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+EVENT SHALL SECRET LABS AB OR THE AUTHOR BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA
+OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
+ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
+SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+5. Tcl/Tk
+License: Tcl/Tk BSD-style License
+Website: https://www.tcl.tk/
+--------------------------------------------------------------------------------
+This software is copyrighted by the Regents of the University of California,
+Sun Microsystems, Inc., Scriptics Corporation, ActiveState Corporation and other
+parties.
+
+The following terms apply to all files associated with the software unless
+explicitly disclaimed in individual files.
+
+The authors hereby grant permission to use, copy, modify, distribute, and
+license this software and its documentation for any purpose, provided that
+existing copyright notices are retained in all copies and that this notice is
+included verbatim in any distributions. No written agreement, license, or
+royalty fee is required for any of the authorized uses. Modifications to this
+software may be copyrighted by their authors and need not follow the licensing
+terms described here, provided that the new terms are clearly indicated on the
+first page of each file where they apply.
+
+IN NO EVENT SHALL THE AUTHORS OR DISTRIBUTORS BE LIABLE TO ANY PARTY FOR DIRECT,
+INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE
+OF THIS SOFTWARE, ITS DOCUMENTATION, OR ANY DERIVATIVE THEREOF, EVEN IF THE
+AUTHORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+--------------------------------------------------------------------------------
+6. PyInstaller Bootloader (Executable Packaging)
+License: GPL v2 with Special Exception
+Website: https://pyinstaller.org/
+--------------------------------------------------------------------------------
+The PyInstaller bootloader is licensed under the GNU General Public License v2,
+with the following special exception:
+
+"As a special exception, the copyright holders of PyInstaller grant you
+permission to combine PyInstaller with free software programs or libraries that
+are released under the GNU LGPL and with independent modules that communicate with
+PyInstaller solely through the Python standard interface. You may copy and
+distribute such a system following the terms of the GNU GPL for PyInstaller and
+the licenses of the other code concerned, provided that you include the source
+code of that other code when and as the GNU GPL requires distribution of source
+code.
+
+In addition, as a special exception, the copyright holders of PyInstaller grant
+you permission to distribute software produced by PyInstaller without any
+restriction on the distribution of that software, including software that is
+licensed under terms different from the GNU GPL, provided that you ensure that
+the output files do not contain any code from PyInstaller other than the
+bootloader code itself and the standard runtime libraries."
+
+Under this exception, distributing compiled standalone executables of
+TEASPA-PHD under a proprietary EULA does not trigger GPL copyleft obligations.
+
+================================================================================
+END OF THIRD_PARTY_LICENSES.txt
+================================================================================

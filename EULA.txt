@@ -1,0 +1,173 @@
+================================================================================
+TEASPA-PHD (TEASPA PLASTIC HINGE DESIGNER)
+END USER LICENSE AGREEMENT (EULA)
+Version 1.2.0 Beta — Release Date: October 2026
+================================================================================
+
+IMPORTANT — READ CAREFULLY BEFORE DOWNLOADING, INSTALLING, COPYING, OR USING
+THIS SOFTWARE:
+
+This End User License Agreement ("EULA" or "Agreement") is a legally binding
+contract between you (either an individual researcher/engineer or a single
+academic/educational institution, hereinafter "Licensee" or "You") and the
+copyright holders and development team of TEASPA-PHD ("Licensor", "Authors",
+or "Developers").
+
+BY DOWNLOADING, INSTALLING, COPYING, OR RUNNING THE TEASPA-PHD COMPILED
+EXECUTABLE ("SOFTWARE"), YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+IF YOU DO NOT AGREE TO ALL TERMS OF THIS EULA, DO NOT DOWNLOAD, INSTALL, COPY,
+OR USE THIS SOFTWARE.
+
+
+1. GRANT OF EVALUATION AND ACADEMIC LICENSE
+-------------------------------------------
+Subject to the terms and limitations of this Agreement, Licensor grants You a
+free, personal, non-exclusive, non-transferable, revocable license to install
+and execute the compiled executable format of the Software solely for:
+  (a) Non-commercial academic instruction, educational coursework, and student
+      training;
+  (b) Scholarly research, scientific inquiry, and doctoral/master dissertation
+      studies;
+  (c) Personal evaluation and non-commercial assessment of engineering plastic
+      hinge formulations.
+
+All rights not expressly granted to You in this Agreement are reserved by the
+Licensor.
+
+
+2. RESTRICTIONS AND CONDITIONS
+------------------------------
+2.1 NO COMMERCIAL USE:
+You may NOT use the Software, its calculations, or patched structural models
+for commercial engineering practice, fee-earning design services, commercial
+consulting, profit-generating construction projects, or within a commercial
+enterprise without prior written authorization and a separate commercial license
+from the Licensor.
+
+2.2 NO REDISTRIBUTION:
+You may NOT redistribute, sell, rent, lease, sublicense, host on public cloud
+mirrors, bundle into commercial toolchains, or otherwise transfer copies of the
+Software binary to any third party. Legitimate users must obtain the Software
+directly from the official distribution channel authorized by the Licensor.
+
+2.3 PROPRIETARY AND CLOSED SOURCE / NO REVERSE ENGINEERING:
+The Software is licensed as a compiled binary; source code is not provided and
+remains strictly confidential and proprietary intellectual property of the
+Authors. To the maximum extent permitted by applicable law, You shall NOT:
+  (a) Decompile, disassemble, unpack, reverse engineer, or decrypt the Software
+      executable or its embedded bytecode, assets, or runtime libraries;
+  (b) Attempt to derive, extract, reconstruct, or view the source code of the
+      Software;
+  (c) Modify, adapt, translate, patch, tamper with, or create derivative works
+      based upon the Software binary;
+  (d) Circumvent or disable any copyright notices, integrity checks, or license
+      indicators embedded within the Software.
+
+2.4 PRESERVATION OF NOTICES:
+You shall not alter, remove, or obscure any copyright notices, trademarks,
+academic citations, disclaimers, or legal notices appearing in the Software or
+its accompanying documentation.
+
+
+3. INTELLECTUAL PROPERTY RIGHTS
+-------------------------------
+3.1 SOFTWARE COPYRIGHT:
+The Software (including its user interface, custom AST text parsers, graphic
+displays, automated assignment workflow, data models, and binary packaging) is
+protected by copyright laws and international copyright treaties. Copyright (c)
+2026 by Mojtaba Fathisepahvand, Min-Lang Lin, and contributors. All rights
+reserved.
+
+3.2 PUBLISHED SCIENTIFIC FORMULATIONS:
+The Software implements engineering methodologies, formulas, and constitutive
+backbone relationships documented in published technical literature, notably:
+  - TEASPA V5.0 Pushover Analysis Guidelines (NCREE-25-002, Lin et al., 2025);
+  - Experimentally calibrated steel hinge models (Fathisepahvand et al., 2026);
+  - CFST column nonlinear hinge formulations (Lin, Huang, Fathisepahvand et al., 2026);
+  - ASCE/SEI 41-23 Chapter 9 and ANSI/AISC 342-22 BRB core formulations.
+Nothing in this EULA asserts exclusive copyright ownership over mathematical
+laws, physical formulas, or public domain engineering methodologies. The
+protection granted herein applies strictly to the Authors' original software
+implementation, computer code, interface, and automated tools.
+
+3.3 TRADEMARKS AND INSTITUTIONAL ATTRIBUTION:
+"National Taipei University of Technology" ("NTUT"), "National Center for
+Research on Earthquake Engineering" ("NCREE"), "ETABS", "SAP2000", "MIDAS Gen",
+and other institutional or commercial marks are the property of their respective
+owners. Their reference within the Software or documentation constitutes academic
+attribution or technical compatibility description only and does not imply
+institutional endorsement, partnership, or sponsorship.
+
+
+4. MANDATORY PROFESSIONAL ENGINEERING DISCLAIMER
+------------------------------------------------
+4.1 INDEPENDENT VERIFICATION REQUIRED:
+The Software is an engineering-assistance and research tool. It DOES NOT replace
+licensed professional engineering judgment, code-mandated structural checks,
+design peer review, or project-specific physical testing.
+
+4.2 ENGINEER'S RESPONSIBILITY:
+All structural modeling assumptions, cross-section geometry, material yield
+properties, axial force levels (P and P/Pye), plastic hinge rotation capacities
+(IO, LS, CP, C, D, E), and patched input files (.e2k, .s2k, .mgt) MUST be
+independently verified and signed off by a qualified, licensed Professional
+Structural Engineer (PE / SE) prior to any engineering application.
+
+4.3 BRB SPECIAL CONDITIONS:
+BRB backbone curves generated by the Software represent nonlinear-static core
+approximations based on ASCE 41-23 / AISC 342-22 parameters. They do NOT include
+connection detailing, casing stability, fatigue qualification, or cyclic
+hysteretic degradation models. Project-specific physical test qualification data
+provided by certified BRB manufacturers shall govern in all actual structural
+designs.
+
+
+5. DISCLAIMER OF WARRANTIES ("AS IS")
+-------------------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.
+THE LICENSOR AND CONTRIBUTORS EXPLICITLY DISCLAIM ALL WARRANTIES, EXPRESS,
+IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+ACCURACY, COMPLETENESS, NON-INFRINGEMENT, OR UNINTERRUPTED OR ERROR-FREE
+OPERATION.
+
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE SOFTWARE IS AT YOUR SOLE
+RISK.
+
+
+6. LIMITATION OF LIABILITY
+--------------------------
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR,
+DEVELOPERS, CONTRIBUTORS, NATIONAL TAIPEI UNIVERSITY OF TECHNOLOGY (NTUT), OR
+NATIONAL CENTER FOR RESEARCH ON EARTHQUAKE ENGINEERING (NCREE) BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, STRUCTURAL DEFECT OR
+FAILURE, LOSS OF LIFE, PROPERTY DAMAGE, BUSINESS INTERRUPTION, LOSS OF PROFITS,
+DATA LOSS, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR PENALTIES) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE,
+INABILITY TO USE, OR RESULTS OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+
+7. TERMINATION
+--------------
+This Agreement is effective until terminated. Your rights under this License will
+terminate automatically without notice from the Licensor if You fail to comply
+with any term(s) of this EULA. Upon termination, You shall immediately cease all
+use of the Software and permanently delete and destroy all copies of the
+Software binary in Your possession or control.
+
+
+8. SEVERABILITY AND GOVERNING LAW
+---------------------------------
+If any provision of this Agreement is held to be invalid, illegal, or
+unenforceable under applicable law, the remaining provisions shall continue in
+full force and effect. This Agreement shall be governed by and construed in
+accordance with the laws of Taiwan (Republic of China), without giving effect to
+any choice of law principles.
+
+================================================================================
+END OF EULA
+================================================================================
