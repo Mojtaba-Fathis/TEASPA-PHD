@@ -1,6 +1,6 @@
 # TEASPA-PHD (TEASPA Plastic Hinge Designer)
 
-**Version 1.2.0 Beta** — Distribution preparation  
+**Version 1.2.0 Beta** — [Download the Windows pre-release](https://github.com/Mojtaba-Fathis/TEASPA-PHD/releases/tag/v1.2.0-beta)  
 *Experimentally Calibrated Nonlinear Plastic Hinge Formulation & Automation Engine*  
 Supported Platforms: **ETABS (`.e2k`)** | **SAP2000 (`.s2k`, `.txt`)** | **MIDAS Gen (`.mgt`)**
 
@@ -47,7 +47,7 @@ By integrating experimentally calibrated backbone formulations from Taiwan's lat
 
 ---
 
-> **Release status:** The Windows binary is being prepared. No downloadable executable is available from this repository yet. This repository contains distribution documentation and assets only.
+> **Release status:** [Version 1.2.0 Beta is available for Windows x64](https://github.com/Mojtaba-Fathis/TEASPA-PHD/releases/tag/v1.2.0-beta). Download the ZIP and SHA256SUMS.txt from the release assets and verify the checksum before extracting. This repository contains distribution documentation and assets; application source code is not included.
 
 ## Installation and Execution
 
