@@ -127,11 +127,13 @@ See `DISCLAIMER.txt` for the full liability disclaimer.
 ## Authors & Collaborators
 
 - **Mojtaba Fathisepahvand** (Lead Software Developer & Researcher)
-- **Min-Lang Lin** (Associate Professor, Department of Civil Engineering, NTUT)
-- **Chao-Hsun Huang** (Research Co-Author)
+- **Min-Lang Lin** (Research Specialist, NCREE)
+- **Chao-Hsun Huang** (Associate Professor, Department of Civil Engineering, NTUT)
 - **Tsung-Chih Chiou** (Research Specialist, NCREE)
-- **Lap-Loi Chung** (Research Specialist, NCREE / Adjunct Professor, NTUT)
-- **Te-Kuang Chou** (Research Co-Author)
+- **Lap-Loi Chung** (Research Specialist, NCREE)
+- **Te-Kuang Chou** (Research Specialist, NCREE)
+- **Kuan-Hsun Chung** (Research Specialist, NCREE)
+- **Yuan-Tao Weng** (Research Specialist, NCREE)
 
 **Affiliations**:
 - Department of Civil Engineering, National Taipei University of Technology (NTUT), Taipei, Taiwan.
