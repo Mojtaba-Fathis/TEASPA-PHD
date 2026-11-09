@@ -47,11 +47,13 @@ By integrating experimentally calibrated backbone formulations from Taiwan's lat
 
 ---
 
-> **Release status:** [Version 1.2.0 Beta is available for Windows x64](https://github.com/Mojtaba-Fathis/TEASPA-PHD/releases/tag/v1.2.0-beta). Download the ZIP and SHA256SUMS.txt from the release assets and verify the checksum before extracting. This repository contains distribution documentation and assets; application source code is not included.
+> **Startup fix (9 November 2026):** Use the package with `startup-fix` in its name; the original binary omitted a NumPy module and cannot start. The corrected executable passed its startup check and all 180 regression tests.
+
+> **Release status:** [Version 1.2.0 Beta is available for Windows x64](https://github.com/Mojtaba-Fathis/TEASPA-PHD/releases/tag/v1.2.0-beta). Download the ZIP and SHA256SUMS_startup-fix.txt from the release assets and verify the checksum before extracting. This repository contains distribution documentation and assets; application source code is not included.
 
 ## Installation and Execution
 
-1. Download the latest release package (`TEASPA-PHD_v1.2.0_Beta_Windows_x64.zip`) from the [Releases](https://github.com/Mojtaba-Fathis/TEASPA-PHD/releases) page.
+1. Download the latest release package (`TEASPA-PHD_v1.2.0_Beta_Windows_x64_startup-fix.zip`) from the [Releases](https://github.com/Mojtaba-Fathis/TEASPA-PHD/releases) page.
 2. Extract the ZIP archive to a folder of your choice on your local drive (e.g., `C:\Engineering\TEASPA-PHD`).
 3. Run `TEASPA-PHD_v1.2.0_Beta.exe`.
 4. (Optional) Create a desktop shortcut to `TEASPA-PHD_v1.2.0_Beta.exe` for convenient access.
