@@ -47,7 +47,7 @@ By integrating experimentally calibrated backbone formulations from Taiwan's lat
 
 ---
 
-> **Startup fix (9 November 2026):** Use the package with `startup-fix` in its name; the original binary omitted a NumPy module and cannot start. The corrected executable passed its startup check and all 180 regression tests.
+> **Startup fix (9 November 2026):** Use the package with `startup-fix` in its name; the original binary omitted a NumPy module and cannot start. The corrected executable passed its startup check.
 
 > **Release status:** [Version 1.2.0 Beta is available for Windows x64](https://github.com/Mojtaba-Fathis/TEASPA-PHD/releases/tag/v1.2.0-beta). Download the ZIP and SHA256SUMS_startup-fix.txt from the release assets and verify the checksum before extracting. This repository contains distribution documentation and assets; application source code is not included.
 
